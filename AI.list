@@ -1,4 +1,20 @@
-DOMAIN-SUFFIX,www.claudeusercontent.com
-DOMAIN-SUFFIX,studiostaticassetsprod.azureedge.net
 DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,ai.com
 
+## Copilot
+DOMAIN-SUFFIX,studiostaticassetsprod.azureedge.net
+
+## Anthropic
+DOMAIN-SUFFIX,www.claudeusercontent.com
+
+## Meta
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,metademolab.com
+
+## Perplexity
+DOMAIN-SUFFIX,perplexity.ai
+
+## Grok
+DOMAIN-SUFFIX,grok.x.com
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
