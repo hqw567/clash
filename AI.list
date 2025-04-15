@@ -20,5 +20,9 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
 
 ## Cursor
+DOMAIN-SUFFIX,cursecdn.com
+DOMAIN-SUFFIX,curseforge.com
+DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
