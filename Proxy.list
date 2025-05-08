@@ -4,3 +4,6 @@ DOMAIN-SUFFIX,truenas.com
 DOMAIN-SUFFIX,ffqla.net
 DOMAIN-SUFFIX,wallhaven.cc
 DOMAIN-SUFFIX,midjourney.com
+DOMAIN-REGEX,readkidz.com
+DOMAIN-REGEX,icepoint.io
+DOMAIN-REGEX,^oss-us-[A-Za-z0-9-]+\.aliyuncs\.com$
