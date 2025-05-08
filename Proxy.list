@@ -6,4 +6,4 @@ DOMAIN-SUFFIX,wallhaven.cc
 DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,readkidz.com
 DOMAIN-SUFFIX,icepoint.io
-DOMAIN-REGEX,^oss-us-[A-Za-z0-9-]+\.aliyuncs\.com$
+DOMAIN-REGEX,^.*\.oss-us-[A-Za-z0-9-]+\.aliyuncs\.com$
