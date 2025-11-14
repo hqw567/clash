@@ -1,28 +1,8 @@
-DOMAIN-SUFFIX,sora.com
-DOMAIN-SUFFIX,ai.com
-
-## Copilot
-DOMAIN-SUFFIX,studiostaticassetsprod.azureedge.net
-
-## Anthropic
-DOMAIN-SUFFIX,www.claudeusercontent.com
-
-## Meta
-DOMAIN-SUFFIX,meta.ai
-DOMAIN-SUFFIX,metademolab.com
-
-## Perplexity
-DOMAIN-SUFFIX,perplexity.ai
-
 ## Grok
 DOMAIN-SUFFIX,grok.x.com
-DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,x.ai
 
 ## Cursor
-DOMAIN-SUFFIX,cursecdn.com
 DOMAIN-SUFFIX,curseforge.com
-DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,cursorapi.com
