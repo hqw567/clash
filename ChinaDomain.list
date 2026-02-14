@@ -1,7 +1,9 @@
 DOMAIN-SUFFIX,pc528.net
 DOMAIN-SUFFIX,t-rex.tzfile.com
-DOMAIN-SUFFIX,time.windows.comc
+DOMAIN-SUFFIX,time.windows.com
+## DOMAIN-SUFFIX,sooplive.co.kr
 DOMAIN-SUFFIX,live-video.net
 DOMAIN-SUFFIX,pandalive.co.kr
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,cloudfront.hls.live-video.net
 DOMAIN-SUFFIX,neolive.kr
-## DOMAIN-SUFFIX,sooplive.co.kr
